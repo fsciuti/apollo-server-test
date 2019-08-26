@@ -1,0 +1,16 @@
+{
+  "name": "ady_graphql_test_server",
+  "version": "1.0.0",
+  "description": "GraphQL Test Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.8.1",
+    "graphql": "^14.4.2",
+    "graphql-import": "^0.7.1",
+  }
+}
